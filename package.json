@@ -1,0 +1,16 @@
+{
+  "name": "watch-cpp",
+  "version": "0.0.1",
+  "description": "Small gulp watch for c++ file, for training your c++ skills",
+  "main": "a.out",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Dragsbæk Petersen <dev@nomis.dk> (http://nomis.dk/)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.2",
+    "gulp-watch": "^4.2.4"
+  }
+}
