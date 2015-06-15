@@ -1,0 +1,9 @@
+# CPP files
+*.out
+
+# Node modules
+node_modules/**/*
+
+# Sublime specific files
+*.sublime-workspace
+*.sublime-project
